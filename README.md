@@ -1,6 +1,6 @@
 # twitter-crawler
 
-Using `scrapy crawl MytwitterSpider` to run the crawler.
+Use `scrapy crawl MytwitterSpider` to run the crawler.
 
 ## Requirement
 
